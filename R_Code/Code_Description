@@ -1,0 +1,5 @@
+Each Player has his own data script that includes all of the same general framework. 
+It is worthy to note that in the statcast_project_ozuna.R file that included at the bottom is the 
+code for combining all four hitter's graphs into one graph through the library ggplot2 and ggpubr.
+Feel free to make optimized changes to improve the code and please build upon my work. 
+Thanks so much for expressing interest in my work!
