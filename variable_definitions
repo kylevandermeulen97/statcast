@@ -1,0 +1,66 @@
+Month: The timeframe by which our batter performed his at bats 
+
+Launch Angle: The vertical angle at which the ball
+
+Distance: Represents the distance away from home plate that a batted ball lands
+
+Event: The end results of a player's at at bat
+  
+  Single: a batter hits the ball and reaches first base without the help of an error or attempt to put out another baserunner
+  
+  Double: a batter hits the ball and reaches second base without the help of an error or attempt to put out another baserunner
+  
+  Triple: a batter hits the ball and reaches third base without the help of an error or attempt to put out another baserunner
+  
+  Homerun: occurs when a batter hits a fair ball and scores on the play without being put out or without the benefit of an error.
+  
+  Field_Error: a fielder fails to convert an out on a play that an average fielder should have made.
+  
+  Field_Out: a field out is recorded when a player at bat or a baserunner is retired by the team in the field
+  
+  Fielders_Choice_Out: a situation in which a batter reaches base safely because the fielder attempts to put out another base runner 
+  
+  Force_Out: the putout of a base runner who is forced to go to the next base.
+  
+  Grounded_Into_Double_Play: occurs when a player hits a ground ball that results in multiple outs on the bases. 
+  
+  Sac_Fly: occurs when a batter hits a fly-ball out to the outfield or foul territory that allows a runner to score.
+
+Direction: The particular location of the field where a batted ball is hit
+  
+  Straightaway: balls hit into the centerfield in a near perfect line.
+  
+  Pull: describes a type of hitter who typically hits the ball to the same side of the field they hit the ball from
+  
+  Opposite: describes a type of hitter who typically hits the ball to the opposite side of the field they hit the ball from.
+
+Pitch(MPH): The maximum speed of a given pitch at any point from its release to the time it crosses home plate
+
+Pitch Type: The different variety of pitches available that differ in velocity, break, and movement
+  
+  4-seam Fastball: the fastest and straightest pitch a pitcher throws; easiest pitch for a pitcher to place, 
+                   because of the lack of movement
+  
+  2-seam Fastball: A two-seam fastball is slower than a four-seam fastball, but it tends to have more movement. 
+                   the ball moves in the same direction as whichever arm is being used to throw it 
+  
+  Changeup: is one of the slowest pitches thrown in baseball, and it is used for deception.
+  
+  Slider: breaking pitch that is thrown faster and generally with less overall movement than a curveball.
+  
+  Curveball: a breaking pitch that has more movement than just about any other pitch. 
+             It is thrown slower and with more overall break than a slider, and it is used to keep hitters off-balance.
+  
+  Sinker: a pitch with hard downward movement, known for inducing ground balls.
+  
+  Cutter: a version of the fastball, designed to move slightly away from the pitcher's arm-side as it reaches home plate.
+  
+  Split-Finger: known for their downward break and lower velocity
+  
+  Knuckle-Curve: produces the desired effect of the two pitches -- 
+                 a slow, curveball break mixed with the unpredictable fluttering of the knuckleball.
+  
+  Knuckleball: The goal of a knuckleball is to eliminate almost all of the spin on the baseball, 
+               causing it to flutter unpredictably on its way to the plate.
+  
+                                            http://m.mlb.com/glossary
