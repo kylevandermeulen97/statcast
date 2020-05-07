@@ -1,0 +1,4 @@
+    The data we utilized included full season 2019 MLB Statcast Game Logs for four players: 
+    Aaron Judge, Joey Gallo, Marcell Ozuna, and Christian Yelich. 
+    The datasets for each of our respective players was obtained from Baseball Savant and 
+    were scraped into individual datasets for each player. 
