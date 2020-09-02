@@ -57,3 +57,6 @@ Five varieties of models are evaluated using the dependent variable outcome (0 t
 
 The models performance was graded based upon the mean absolute error and compared across all players:
 
+![](fitted_probability/model_results.png)
+
+![](fitted_probability/fitted_probability_all.png)
