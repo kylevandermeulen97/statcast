@@ -60,3 +60,6 @@ The models performance was graded based upon the mean absolute error and compare
 ![](fitted_probability/model_results.png)
 
 ![](fitted_probability/fitted_probability_all_plots.png)
+
+
+Three different lines are graphed on each plot that highlight three different exit velocity values. The green line represents the mean exit velocity for our hitter over the course of the 2019 season. While the red line represents an exit velocity 10% below the mean and the blue line signifies 10% above the mean. 
