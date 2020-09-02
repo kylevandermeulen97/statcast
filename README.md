@@ -25,5 +25,11 @@ Ozuna’s significant predictors are Distance [0.023, 0.05], DirectionPull [4.63
 
 ## Data Description
 
+The data we utilized included full season 2019 MLB Statcast Game Logs for four players: Aaron Judge, Joey Gallo, Marcell Ozuna, and Christian Yelich. The datasets for our each of our respective players was obtained from baseball Savant https://baseballsavant.mlb.com/statcast_leaderboard
+They were then scraped into individual datasets for each player. We intently focused on obtaining an accurate depiction of exit velocity and it's potential predictors by including one right handed hitter from the American League, one right handed hitter from the National League, one left handed hitter from the American League, and one left handed hitter from the National League. This was done to ensure an accurate representation of exit velocity league wide while taking into account batter handedness.
+
+### Data Sample
+
+
 
 
