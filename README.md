@@ -59,4 +59,4 @@ The models performance was graded based upon the mean absolute error and compare
 
 ![](fitted_probability/model_results.png)
 
-![](fitted_probability/fitted_probability_all.png)
+![](fitted_probability/fitted_probability_all_plots.png)
