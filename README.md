@@ -11,14 +11,6 @@ The first objective of this paper is the comparison of five predictive models in
 ### Second Objective
 The second objective of this paper is to examine significant factors in a batter’s exit velocity (BEV). This regression was able to sift out the statistically significant factors for each of our four hitters exit velocity at the 95% confidence level. 
 
-Gallo’s significant predictors are as such: Month [-1.57, 0.013], Launch_Angle [0.05, 0.33], Distance [0.01, 0.07], DirectionPull [6.44, 19.48], DirectionStraightaway [2.98, 17.29], Event_Field_Out [-15.23, -0.28], Event_Force_Out [-53.2, -2.26]. 
-
-Judge’s significant predictors are Month [-1.82, 0.025], Distance [0.025. 0.07], Event_Field_Out [-14.56, -1.66], DirectionPull [2.15, 11.78], DirectionStraightaway [1.59, 10.13], PitchTypeChangeup [-14.45, -1.21]. 
-
-Yelich’s significant predictors are Distance [-0.021, 0.04], DirectionPull [4.63, 12.81], DirectionStraightaway [1.70, 9.34], Event_Field_Out [-15.00, -3.50], Event_Force_Out [-22.00, -2.99], Event_Grounded_Into_Dp [-24.2, -1.05], Event_Single [-13.00, -0.72]. 
-
-Ozuna’s significant predictors are Distance [0.023, 0.05], DirectionPull [4.63, 12.12], DirectionStraightaway [-0.18, 7.46], Event_Field_Out [-11.45, -0.42], PitchType4-SeamFastball [3.09, 10.90], PitchTypeCutter [-0.01, 12.74], PitchTypeKnuckle-Curve [2.19, 22.50], PitchTypeSinker [3.12, 14.13], PitchTypeSlider [-0.74, 10.74], Pitch(MPH) [0.07, 0.95]. 
-
 
 
 
@@ -63,3 +55,20 @@ The models performance was graded based upon the mean absolute error and compare
 
 
 Three different lines are graphed on each plot that highlight three different exit velocity values. The green line represents the mean exit velocity for our hitter over the course of the 2019 season. While the red line represents an exit velocity 10% below the mean and the blue line signifies 10% above the mean. 
+
+
+
+
+
+
+# Predictors of a Hitter's Exit Velocity
+
+Gallo’s significant predictors are as such: Month [-1.57, 0.013], Launch_Angle [0.05, 0.33], Distance [0.01, 0.07], DirectionPull [6.44, 19.48], DirectionStraightaway [2.98, 17.29], Event_Field_Out [-15.23, -0.28], Event_Force_Out [-53.2, -2.26]. 
+
+Judge’s significant predictors are Month [-1.82, 0.025], Distance [0.025. 0.07], Event_Field_Out [-14.56, -1.66], DirectionPull [2.15, 11.78], DirectionStraightaway [1.59, 10.13], PitchTypeChangeup [-14.45, -1.21]. 
+
+Yelich’s significant predictors are Distance [-0.021, 0.04], DirectionPull [4.63, 12.81], DirectionStraightaway [1.70, 9.34], Event_Field_Out [-15.00, -3.50], Event_Force_Out [-22.00, -2.99], Event_Grounded_Into_Dp [-24.2, -1.05], Event_Single [-13.00, -0.72]. 
+
+Ozuna’s significant predictors are Distance [0.023, 0.05], DirectionPull [4.63, 12.12], DirectionStraightaway [-0.18, 7.46], Event_Field_Out [-11.45, -0.42], PitchType4-SeamFastball [3.09, 10.90], PitchTypeCutter [-0.01, 12.74], PitchTypeKnuckle-Curve [2.19, 22.50], PitchTypeSinker [3.12, 14.13], PitchTypeSlider [-0.74, 10.74], Pitch(MPH) [0.07, 0.95]. 
+
+
