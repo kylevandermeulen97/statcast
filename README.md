@@ -77,7 +77,7 @@ Ozuna’s significant predictors are Distance [0.023, 0.05], DirectionPull [4.63
 
 
 
-![](predictors_exitvelocity_plots/time_series_plots.png)
+![](predictors_exitvelocity_plots/time_series_plot.png)
 
 There is without a doubt that Gallo and Judge struggled month to month. Gallo once again shows the inconsistency reaching a exit velo as high as 115 mph and as low as 60 mph. Judge was more consistent in his exit velo, but struggled in August. A suggestion may be to tell our players to focus more time and effort into hitting in the months they have previously shown dramatic drops in exit velocity.
 
@@ -91,7 +91,7 @@ There is without a doubt that Gallo and Judge struggled month to month. Gallo on
 
 
 
-![](predictors_exitvelocity_plots/pitches_plots.png)
+![](predictors_exitvelocity_plots/pitches_plot.png)
 
 
 
