@@ -43,4 +43,17 @@ Listed above in the repository are several different items:
 * The variable_defintions include all of the variables defined by Major League Baseball
 * The r.package.versions include all of the r packages that were used and their versions at the time of use
 * The edited final paper includes my paper that I wrote that details the analysis from start to finish
-* The data folder includes
+* The data folder includes a description of the data, data sample head, and each csv dataset for each of the four players
+* The R_code folder includes an in depth summary of the analysis and each code file for each player
+
+
+
+
+
+
+# Fitted Probability of a Hit
+
+Five varieties of models are evaluated using the dependent variable outcome (0 to 1) to estimate the fit and probability of a hit : generalized additive models (GAM), p-spline smoothing, restricted maximum likelihood (REML), local regression (loess), and generalized cross validation (GCV). 
+
+The models performance was graded based upon the mean absolute error and compared across all players:
+
