@@ -37,3 +37,10 @@ They were then scraped into individual datasets for each player. We intently foc
 
 
 ## More Info
+
+Listed above in the repository are several different items: 
+
+* The variable_defintions include all of the variables defined by Major League Baseball
+* The r.package.versions include all of the r packages that were used and their versions at the time of use
+* The edited final paper includes my paper that I wrote that details the analysis from start to finish
+* The data folder includes
