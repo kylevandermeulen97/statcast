@@ -72,3 +72,40 @@ Yelich’s significant predictors are Distance [-0.021, 0.04], DirectionPull [4.
 Ozuna’s significant predictors are Distance [0.023, 0.05], DirectionPull [4.63, 12.12], DirectionStraightaway [-0.18, 7.46], Event_Field_Out [-11.45, -0.42], PitchType4-SeamFastball [3.09, 10.90], PitchTypeCutter [-0.01, 12.74], PitchTypeKnuckle-Curve [2.19, 22.50], PitchTypeSinker [3.12, 14.13], PitchTypeSlider [-0.74, 10.74], Pitch(MPH) [0.07, 0.95]. 
 
 
+
+
+
+
+
+![](predictors_exitvelocity_plots/time_series_plots.png)
+
+There is without a doubt that Gallo and Judge struggled month to month. Gallo once again shows the inconsistency reaching a exit velo as high as 115 mph and as low as 60 mph. Judge was more consistent in his exit velo, but struggled in August. A suggestion may be to tell our players to focus more time and effort into hitting in the months they have previously shown dramatic drops in exit velocity.
+
+
+
+
+
+![](predictors_exitvelocity_plots/scatter_all_players.png)
+
+
+
+
+
+![](predictors_exitvelocity_plots/pitches_plots.png)
+
+
+
+
+
+
+
+# Conclusion
+
+The factors having a significant impact on a hitter's exit velocity that were displayed across all four hitters were Distance, Direction(Pull), Direction(Straightaway), and Event(field_out). In addition to these universal factors were predictors that came up in a couple of our hitters. The month, launch_angle, outcomes, and pitch types proved to be of significance in relation to some hitters. Moreover, the speed of the pitch when alongside other predictors had little to no impact on exit velocity. Overall is the fact that there is a need to personalize exit velocity as every batter has strengths, weaknesses, and tendecies that can be enhanced or exploited.
+
+## Going Forward
+
+* Does the position and age of a player influence their exit velocity?
+* Clustering could be utilized to include more hitters to discover further information for decision making
+* Are there any differences between pro and collegiate hitters in obtaining significant factors, exit velocity, and launch angle for maximum hit probability?
+
