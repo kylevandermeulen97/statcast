@@ -411,10 +411,6 @@ fit3.output = lm(fit3, data=ozuna)
 fit3.summary = summary(fit3.output)
 fit3.confint = confint(fit3.output)
 
-
-
-
-
 #Combining all four hitter's plots into one
 
 library(ggplot2)
@@ -427,10 +423,3 @@ figure
 event_plot <- ggarrange(gallo1,judge1,yelich1,ozuna1,
                         ncol = 2, nrow = 2)
 event_plot
-
-
-
-
-
-
-
